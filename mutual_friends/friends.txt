@@ -1,9 +1,0 @@
-Alice Bob
-Alice Carol
-Alice Edward
-Bob Daniel
-Carol Daniel
-Carol Edward
-Fran Carol
-Fran Bob
-Fran Daniel
