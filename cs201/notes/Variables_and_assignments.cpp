@@ -293,6 +293,13 @@ void main()
 	int d = 456;
 
 	double e = static_cast<double>(c) / static_cast<double>(d);
+	
+	// c-style type casting
+	
+	int measurement = 5;
+	
+	double measurement2 = (double)measurement;
+	
 }
 
 
